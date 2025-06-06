@@ -15,8 +15,8 @@ I'm a passionate programmer who turns ideas into code 💻
 Lover of creative ideas, smart solutions, and everything in between.
 
 ## 🛠️ Tech Stack
-- Languages: Python, php, C++
-- Tools: Git, VS Code,
+- Languages: Python, php, Node.js and C++ (currently learning).
+- Tools: Git, VS Code .
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -26,17 +26,17 @@ Lover of creative ideas, smart solutions, and everything in between.
 
 
 ## 🚀 What I'm Working On
-- 🤖 Building **DunbBot** – a Discord bot that asks dumb questions and rewards you for guessing randomly
-- 🧠 Learning advanced AI/ML using tensorflow, Mediapippe
-- 🛠️ Automating boring tasks with clever scripts
+- 🤖 Building **404-respec-not-found** – a Discord bot that disrespectects and roasts you and your friends worst ! 
+-🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
+- 🛠️ Automating boring tasks with clever scripts.
 
 ## 📈 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)
 
 ## 🎯 Fun Facts
-- 💡 I believe bugs are just features waiting to be understood
-- 🤔 I think in loops, dream in functions, and eat semicolons for breakfast
-- 🧠 My brain runs on `random.choice()`
+- 💡 I believe bugs are just features waiting to be understood.
+- 🤔 I think in loops, dream in functions, and eat semicolons for breakfast.
+- 🧠 My brain runs on `random.choice()`.
 
 ## 📬 Let's Connect!
 
