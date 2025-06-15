@@ -1,4 +1,5 @@
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
 </p>
@@ -11,8 +12,14 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/sULKEgDMX8LcI/giphy.gif" alt="Matrix Cyberpunk Animation" />
+</p>
+
+
 I'm a passionate programmer who turns ideas into code 💻  
 Lover of creative ideas, smart solutions, and everything in between.
+
 
 ## 🛠️ Tech Stack
 - Languages: Python, php, Node.js and C++ (currently learning).
@@ -23,11 +30,14 @@ Lover of creative ideas, smart solutions, and everything in between.
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-
+## 🌐 Explore my bot
+- DumbBot - Chaotic and hilarious Discord bot that thrives on randomness and stupidity. 
+- SussyCommentor - SussyCommentor is your comment generator discord bot that leaves randomly sus, funny, or creepy comments.
+- 404 Respet not found - its detroy's your respect, nic your friends, roasts them badly etc.
 
 ## 🚀 What I'm Working On
 - 🤖 Building **404-respec-not-found** – a Discord bot that disrespectects and roasts you and your friends worst ! 
--🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
+- 🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
 - 🛠️ Automating boring tasks with clever scripts.
 
 ## 📈 GitHub Stats
