@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=Welcome+to+My+Profile" alt="Typing SVG" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++++++++++++++++++++I+am+Kavin+a+newbie+to+programming.+.+.+..;I+am+learning+Python%2C+C%2B%2B+and+php.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=+++++++++++++++++++++I+am+Kavin+a+intermediate+programmer.+.+.+..;I+am+learning+Python%2C+C%2B%2B+and+php.)](https://git.io/typing-svg)
 
 <p
 
