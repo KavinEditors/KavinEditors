@@ -35,6 +35,9 @@ Lover of creative ideas, smart solutions, and everything in between.
 - SussyCommentor - SussyCommentor is your comment generator discord bot that leaves randomly sus, funny, or creepy comments.
 - 404 Respet not found - its detroy's your respect, nic your friends, roasts them badly etc.
 
+## 🖥️ Have fun with... 
+- R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
+
 ## 🚀 What I'm Working On
 - 🤖 Building **404-respec-not-found** – a Discord bot that disrespectects and roasts you and your friends worst ! 
 - 🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
