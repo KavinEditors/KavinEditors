@@ -36,7 +36,7 @@ Lover of creative ideas, smart solutions, and everything in between.
 
 ## 🖥️ Have fun with... 
 - R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
-- MoodMate - moodmate-your-real-companion.streamlit.app/
+- MoodMate - https://moodmate-your-real-companion.streamlit.app/
 
 ## 🚀 What I'm Working On
 - 🤖 Building **LUNA** LUNA (Language Understanding & Neural Analysis) is a personal AI assistant that seamlessly connects your browser to the Groq API.
