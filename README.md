@@ -33,13 +33,23 @@ Lover of creative ideas, smart solutions, and everything in between.
 ## 🌐 Explore my bot
 - DumbBot - Chaotic and hilarious Discord bot that thrives on randomness and stupidity. 
 - SussyCommentor - SussyCommentor is your comment generator discord bot that leaves randomly sus, funny, or creepy comments.
-- 404 Respet not found - its detroy's your respect, nic your friends, roasts them badly etc.
 
 ## 🖥️ Have fun with... 
 - R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
 
 ## 🚀 What I'm Working On
-- 🤖 Building **404-respec-not-found** – a Discord bot that disrespectects and roasts you and your friends worst ! 
+- 🤖 Building **LUNA** LUNA (Language Understanding & Neural Analysis) is a personal AI assistant that seamlessly connects your browser to the Groq API.
+Unlike ordinary tools, LUNA is designed to handle both text and visual content, making it a versatile companion for everyday browsing and research.
+
+With LUNA, you can:
+
+✨ Ask questions about any highlighted text on a webpage and get instant, AI-powered answers.
+
+📰 Summarize long articles or documents into clear, concise insights.
+
+🖼️ Analyze images or screenshots directly from your browser, extracting meaning and context in seconds.
+
+⚡ Save time by turning any on-screen content into actionable knowledge without switching tabs or copying data.
 - 🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
 - 🛠️ Automating boring tasks with clever scripts.
 
