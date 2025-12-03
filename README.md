@@ -38,11 +38,7 @@ Lover of creative ideas, smart solutions, and everything in between.
 ## 🖥️ Have fun with... 
 - R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
 - MoodMate - https://moodmate-your-real-companion.streamlit.app/
-
-## 📈 GitHub Stats
-[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight
-)](https://github-readme-stats.vercel.app/api?username=KavinEditors
-)
+- NEXA - Your AI buddy
 
 ## 🎯 Fun Facts
 - 💡 I believe bugs are just features waiting to be understood.
