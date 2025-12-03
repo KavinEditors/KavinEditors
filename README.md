@@ -40,7 +40,8 @@ Lover of creative ideas, smart solutions, and everything in between.
 - MoodMate - https://moodmate-your-real-companion.streamlit.app/
 
 ## 📈 GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight
+[[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight
+)](https://github-readme-stats.vercel.app/api?username=KavinEditors
 )
 
 ## 🎯 Fun Facts
