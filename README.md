@@ -39,24 +39,9 @@ Lover of creative ideas, smart solutions, and everything in between.
 - R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
 - MoodMate - https://moodmate-your-real-companion.streamlit.app/
 
-## 🚀 What I'm Working On
-- 🤖 Building **LUNA** LUNA (Language Understanding & Neural Analysis) is a personal AI assistant that seamlessly connects your browser to the Groq API.
-Unlike ordinary tools, LUNA is designed to handle both text and visual content, making it a versatile companion for everyday browsing and research.
-
-With LUNA, you can:
-
-✨ Ask questions about any highlighted text on a webpage and get instant, AI-powered answers.
-
-📰 Summarize long articles or documents into clear, concise insights.
-
-🖼️ Analyze images or screenshots directly from your browser, extracting meaning and context in seconds.
-
-⚡ Save time by turning any on-screen content into actionable knowledge without switching tabs or copying data.
-- 🧠 Learning advanced AI/ML using tensorflow, Mediapippe (for a gesture project).
-- 🛠️ Automating boring tasks with clever scripts.
-
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight)](https://github-readme-stats.vercel.app/api?username=KavinEditors&show_icons=true&theme=tokyonight
+)
 
 ## 🎯 Fun Facts
 - 💡 I believe bugs are just features waiting to be understood.
