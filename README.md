@@ -32,13 +32,11 @@ Lover of creative ideas, smart solutions, and everything in between.
 ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 ## 🌐 Explore my bot
-- DumbBot - Chaotic and hilarious Discord bot that thrives on randomness and stupidity. 
 - SussyCommentor - SussyCommentor is your comment generator discord bot that leaves randomly sus, funny, or creepy comments.
 
 ## 🖥️ Have fun with... 
 - R.O.A.S.T - https://really-offensive-automated-sus-terminator.streamlit.app/
 - MoodMate - https://moodmate-your-real-companion.streamlit.app/
-- NEXA - Your AI buddy
 
 ## 🎯 Fun Facts
 - 💡 I believe bugs are just features waiting to be understood.
