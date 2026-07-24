@@ -45,8 +45,8 @@ Lover of creative ideas, smart solutions, and everything in between.
 
 ## 📬 Let's Connect!
 
-[![Discord](https://img.shields.io/badge/Discord-kavin_311-7289DA?style=for-the-badge&logo=discord)](https://discord.com/users/1180531027832217661)
-[![Twitter](https://img.shields.io/badge/Twitter-@SpeedKavin311-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com/SpeedKavin311)
+![Discord](https://img.shields.io/badge/Discord-error_in.line32-7289DA?style=for-the-badge&logo=discord)
+
 
 
 
